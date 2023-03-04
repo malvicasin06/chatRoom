@@ -1,0 +1,44 @@
+*{
+    text-decoration: none;
+    /* color: black; */
+    font-family: Söhne,ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif,Helvetica Neue,Arial,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+    font-size: .9rem;
+}
+.home-cont{
+    /* border: 2px solid red; */
+    height: 100vh;
+    width: 100vw;
+}
+.links-cont{
+    /* border: 2px solid blue; */
+    margin: auto;
+    padding: 0;
+    width: fit-content;
+    position: relative;
+    top: 50vh;
+    display: flex;
+    gap: 2rem;
+}
+.home-cont p{
+    font-size:1.2rem;
+    
+}
+.link-one{
+    background-color: #0066ff;
+    /* border: 2px solid black; */
+    border-radius: 5px;
+    padding: 7px 41px;
+    
+}
+.link-one p{
+
+    color: white;
+
+}
+.link-two{
+    background-color: rgb(171, 171, 171);
+    /* border: 2px solid black; */
+    border-radius: 5px;
+    padding: 7px 41px;
+}
+
